@@ -1,0 +1,12 @@
+.home-container
+{
+    background-color: aquamarine;
+    min-height: 90vh;
+}
+
+.home-head
+{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}

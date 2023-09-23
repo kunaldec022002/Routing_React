@@ -1,0 +1,12 @@
+.contact-container
+{
+    background-color: chocolate;
+    min-height: 90vh;
+}
+
+.contact-head
+{
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+}
